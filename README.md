@@ -28,7 +28,7 @@
     <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" height="50px" width="50px"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQegowPDKqrJzjjfqfoFznZnVrzdq9uNE6g71NrtBT6R5GBXHvmK4qtr9KF78wB4psgejg&usqp=CAU" height="50px" width="50px"/>
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height="50px" width="50px"/>
-    <img src="https://pngimg.com/d/mysql_PNG9.png" height="50px" width="50px"/>
+    <img src="https://static.javatpoint.com/mysql/images/mysql-tutorial.png" height="50px" width="50px"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="50px" width="50px"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height="50px" width="50px"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/640px-Dart-logo-icon.svg.png" height="50px" width="50px"/>
