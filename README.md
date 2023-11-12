@@ -3,7 +3,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 <h1 id="name">
-    Jay Tinosa
+    <span style="text-align:center;
+    font-family: 'Fira Code', monospace;
+    color: #1976d2;">Jay Tinosa<span>
 </h1>
 <div id="typed">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=100&color=1976D2&center=true&random=false&width=435&lines=Professor;App+Developer;Web+Developer" alt="Typing SVG" />
