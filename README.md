@@ -1,13 +1,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
-<style>
-#name,#typed,#languages{
-    text-align:center;
-    font-family: 'Fira Code', monospace;
-    color: #1976d2;
-}
-</style>
+<link rel="stylesheet" href="styles.css">
 <h1 id="name">
     Jay Tinosa
 </h1>
