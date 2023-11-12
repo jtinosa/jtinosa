@@ -5,7 +5,7 @@
     Jay Tinosa
 </h1>
 <div id="typed">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=100&color=FFFFFF&center=false&random=false&width=435&lines=Professor;App+Developer;Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=100&color=1976D2&center=false&random=false&width=435&lines=Professor;App+Developer;Web+Developer" alt="Typing SVG" />
 <div>
 <div id="languages">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="50px"/>
