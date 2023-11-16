@@ -19,8 +19,4 @@
 - Watching Anime
 - Playing Chess
 - Programming
-
-## Favorite Food
-- Spaghetti
-- Lasagna
-- Pizza
+- Playing With Pets
