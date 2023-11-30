@@ -7,7 +7,6 @@
 ## Current Projects
 - Beyond Borders: Love & Resilience
 - Edelstein Academy
-- JTCoin Website
 
 ## Favorite Programming Languages
 - Java
