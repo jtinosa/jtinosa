@@ -1,6 +1,8 @@
 ## Occupation
 - Professor
 - App Developer
+- Web Developer
+- Game Developer
 
 ## Current Projects
 - Beyond Borders: Love & Resilience
