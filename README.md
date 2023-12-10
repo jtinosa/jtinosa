@@ -7,6 +7,7 @@
 ## Current Projects
 - Beyond Borders: Love & Resilience
 - Edelstein Academy
+- Talos
 
 ## Favorite Programming Languages
 - Java
