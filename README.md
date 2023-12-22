@@ -1,9 +1,3 @@
-## Occupation
-- Professor
-- App Developer
-- Web Developer
-- Game Developer
-
 ## Current Projects
 - Beyond Borders: Love & Resilience
 - Edelstein Academy
@@ -12,11 +6,13 @@
 ## Favorite Programming Languages
 - Java
 - Kotlin
-- Javascript
 - Python
+- Javascript
 
-## Hobbies
-- Watching Anime
-- Playing Chess
-- Programming
-- Playing With Pets
+## Favorite Frameworks
+- Spring Boot
+- Vaadin Flow
+- Django
+- React
+- React Native
+
