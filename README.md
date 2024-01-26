@@ -2,6 +2,7 @@
 - Edelstein Academy
 - Talos
 - Beyond Borders: Love & Resilience
+- JToken
 
 ## Favorite Programming Languages
 - Java
