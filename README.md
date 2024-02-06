@@ -1,5 +1,4 @@
 ## Current Projects
-- Samantha's Place Website
 - Edelstein Academy
 - Talos
 - Beyond Borders: Love & Resilience
