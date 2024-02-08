@@ -2,6 +2,7 @@
 - Edelstein Academy
 - Talos
 - Beyond Borders: Love & Resilience
+- Samantha's Place Website
 
 ## Favorite Programming Languages
 - Java
