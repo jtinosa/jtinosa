@@ -1,9 +1,6 @@
 ## Current Projects
-- Edelstein Academy
 - Talos
-- Beyond Borders: Love & Resilience
-- Samantha's Place Website
-- Stickets
+- Edelstein Academy
 
 ## Favorite Programming Languages
 - Java
@@ -13,8 +10,7 @@
 
 ## Favorite Frameworks
 - Spring Boot
-- Vaadin Flow
-- Django
-- React
-- React Native
+- Laravel
+- Angular
+- Vue
 
