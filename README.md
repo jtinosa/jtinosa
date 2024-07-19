@@ -10,5 +10,4 @@
 
 ## Favorite Frameworks
 - Spring Boot
-- VueJS
-
+- Vaadin
