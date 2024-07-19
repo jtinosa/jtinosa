@@ -10,7 +10,5 @@
 
 ## Favorite Frameworks
 - Spring Boot
-- Laravel
-- Angular
-- Vue
+- VueJS
 
