@@ -1,5 +1,7 @@
 ## Lectures
 - [Game Development](https://jtinosa.github.io/Game-Development/)
+- [Intermediate Mobile Programming](https://jtinosa.github.io/Intermediate-Mobile-Programming/)
+
 ## Current Projects
 - Talos
 
