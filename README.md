@@ -1,7 +1,9 @@
 ## Lectures
+- [Application Development and Emerging Technologies]()
 - [Computer Graphics Programming](https://jtinosa.github.io/Computer-Graphics-Programming/)
 - [Game Development](https://jtinosa.github.io/Game-Development/)
 - [Intermediate Mobile Programming](https://jtinosa.github.io/Intermediate-Mobile-Programming/)
+- [Web Content Management]()
 
 ## Current Projects
 - Talos
